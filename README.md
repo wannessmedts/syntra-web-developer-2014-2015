@@ -11,11 +11,9 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 
 ## Studenten
 
-- Iliaens Jonas
-	- email: jonas_iliaens@icloud.com
-	- GitHub: https://github.com/jonasiliaens
+- Wannes Smedts
+	- email: wannes.smedts@hotmail.com
+	- GitHub: https://github.com/wannessmedts
 
-- Leonie Swart
-- 	leonie-swart@hotmail.com
-- 	https://github.com/leonieswart
+
 
