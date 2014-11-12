@@ -11,9 +11,9 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 
 ## Studenten
 
-- Naam Voornaam
-	- email: ---
-	- GitHub: ---
+- Iliaens Jonas
+	- email: jonas_iliaens@icloud.com
+	- GitHub: https://github.com/jonasiliaens
 
 
 
